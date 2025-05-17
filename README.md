@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iegustavo
+- 👋 Hi, I’m Erik Gustavo
 - 👀 I’m interested in ser um grande DEV
 - 🌱 I’m currently learning a programar 
 - 📫 How to reach me erikgustavo634@gmail.com
